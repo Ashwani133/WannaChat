@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# Build directories (if using TypeScript, Webpack, etc.)
+dist/
+build/
+coverage/
+
+# Dependency directories (e.g., for yarn or npm)
+yarn-error.log
+npm-debug.log
+
+# IDE and editor configurations (e.g., for VS Code, WebStorm, etc.)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store    # macOS
+Thumbs.db    # Windows
+
+# Temporary files and directories
+*.swp        # Vim editor swap files
+*.swo        # Vim swap files
